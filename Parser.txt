@@ -1,0 +1,9 @@
+local variable : a , type: int 
+local variable : b , type: int 
+local variable : c , type: int 
+local variable : discriminant , type: int 
+local variable : root1 , type: int 
+local variable : root2 , type: int 
+local variable : realPart , type: int 
+local variable : imagPart , type: int 
+var-b var-b * const-4 var-a * var-c * - error: syntax error

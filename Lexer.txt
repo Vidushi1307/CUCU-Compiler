@@ -1,0 +1,41 @@
+TYPE : int 
+ID: main
+OPENPAR : (
+CLOSEPAR : )
+OPENPAR : {
+TYPE : int 
+ID: a
+SEMICOL : ;
+TYPE : int 
+ID: b
+SEMICOL : ;
+TYPE : int 
+ID: c
+SEMICOL : ;
+TYPE : int 
+ID: discriminant
+SEMICOL : ;
+TYPE : int 
+ID: root1
+SEMICOL : ;
+TYPE : int 
+ID: root2
+SEMICOL : ;
+TYPE : int 
+ID: realPart
+SEMICOL : ;
+TYPE : int 
+ID: imagPart
+SEMICOL : ;
+ID: discriminant
+ASSIGN : =
+ID: b
+MUL_OP : *
+ID: b
+SUB_OP : -
+NUM : 4
+MUL_OP : *
+ID: a
+MUL_OP : *
+ID: c
+CONTROL_TYPE : if
